@@ -37,7 +37,6 @@ public class IngredientTest {
         };
     }
 
-
     @Test
     public void getTypeIngredient(){
         Ingredient ingredient = new Ingredient(type, name, price);
