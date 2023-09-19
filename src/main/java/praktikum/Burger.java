@@ -1,5 +1,6 @@
 package praktikum;
-
+import praktikum.Bun;
+import praktikum.Ingredient;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -27,6 +28,7 @@ public class Burger {
     }
 
     public void moveIngredient(int index, int newIndex) {
+
         ingredients.add(newIndex, ingredients.remove(index));
     }
 

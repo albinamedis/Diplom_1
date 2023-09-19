@@ -2,6 +2,9 @@ package praktikum;
 
 import java.util.ArrayList;
 import java.util.List;
+import praktikum.Bun;
+import praktikum.Ingredient;
+import praktikum.IngredientType;
 
 /**
  * Класс с методами по работе с базой данных.

@@ -1,6 +1,11 @@
 package praktikum;
 
 import java.util.List;
+import praktikum.Ingredient;
+import praktikum.Database;
+import praktikum.Bun;
+import praktikum.Burger;
+
 
 public class Praktikum {
 
