@@ -1,4 +1,5 @@
 package praktikum;
+import praktikum.IngredientType;
 
 /**
  * Модель ингредиента.
